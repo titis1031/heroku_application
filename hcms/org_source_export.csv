@@ -1,0 +1,4 @@
+id,client_id__c,is_active__c,is_app__c,is_cat_consent__c,is_dealer__c,is_obfuscated__c,is_salesforce_org__c,is_separate_contact__c,record_type_id__c,source_name__c
+1,111111111,1,,,,,1,,,CATFi
+2,2222222222,,1,,,,,,,Solar
+3,3333333333,,,,1,,,,,CH420
